@@ -1,0 +1,5 @@
+common_code,common_code_name,description
+GRADE,성적등급 코드,교육부 지정 등급구간
+DEPARTMENT,학과 코드,
+COLLEGE,단과대 코드,
+CODE_TYPE,값 유형,공통코드 값 유형
